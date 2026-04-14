@@ -1,0 +1,93 @@
+# btop color theme: MAGI-Inspired
+
+# main background and text
+
+theme[main_bg]="#000000"         # pure black
+
+theme[main_fg]="#f06800"         # orange primary text
+
+theme[title]="#f06800"           # orange primary titles
+
+theme[hi_fg]="#3cffd0"           # cyan accents
+
+
+
+# box borders
+
+theme[div_line]="#f06000"        # orange lines
+
+theme[box_borders]="#f06000"     # orange outlines
+
+
+
+# selection
+
+theme[hi_bg]="#60f0a0"           # cyan highlighted txt bg
+
+theme[selected_fg]="#000000"     # black text while selected
+
+theme[selected_bg]="#60f0a0"     # also cyan
+
+
+
+# graph colors
+
+# safe colors / cyans / low
+
+theme[cpu_start]="#60f0a0"
+
+theme[mem_start]="#60f0a0"
+
+theme[net_start]="#60f0a0"
+
+theme[proc_start]="#60f0a0"
+
+
+
+# oranges / medium
+
+theme[cpu_mid]="#f06800"
+
+theme[mem_mid]="#f06800"
+
+theme[net_mid]="#f06800"
+
+theme[proc_mid]="#f06800"
+
+
+
+# critical colors / red / high
+
+theme[cpu_end]="#d63a3d"
+
+theme[mem_end]="#d63a3d"
+
+theme[net_end]="#d63a3d"
+
+theme[proc_end]="#d63a3d"
+
+
+
+# process list
+
+theme[inactive_fg]="#707070"     # for text
+
+theme[graph_text]="#505050"      # dark gray
+
+theme[process_selected_fg]="#000000"
+
+theme[process_selected_bg]="#60f0a0"
+
+
+
+# other elements / shades of cyans
+
+theme[net_up]="#3cffd0"          # bright cyan
+
+theme[net_down]="#60f0a0"        # normal cyan
+
+theme[mem_cache]="#707070"       # gray
+
+theme[cpu_load]="#3cffd0"        # bright cyan
+
+theme[battery]="#f06800"         # orange
